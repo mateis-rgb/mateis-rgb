@@ -71,11 +71,3 @@ height="35" alt="discord logo"  />
 </div>
 
 ###
-
-<br clear="both">
-
-<img 
-src="https://raw.githubusercontent.com/mateis-rgb/mateis-rgb/output/snake.svg" 
-alt="Snake animation" />
-
-###
