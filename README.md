@@ -1,6 +1,6 @@
 <h2 align="left">Hello, my name is Matéis. I'm a French developer 
 particularly fond of ReactJS and web technologies, but can also develop in 
-C++, C#, Python and Swift.</h2>
+C, C++, C#, Python and Swift.</h2>
 
 ###
 
