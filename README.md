@@ -75,3 +75,7 @@ height="35" alt="discord logo"  />
 </div>
 
 ###
+
+---
+
+> [10 Règles de développement à appliquer dans tous les codes](https://github.com/mateis-rgb/learning/blob/main/DevelopmentRules.md)
