@@ -73,5 +73,5 @@ height="35" alt="discord logo"  />
 
 ---
 
-> [10 Règles de développement à appliquer dans tous les codes](https://github.com/mateis-rgb/learning/blob/main/DevelopmentRules.md) \\
+> [10 Règles de développement à appliquer dans tous les codes](https://github.com/mateis-rgb/learning/blob/main/DevelopmentRules.md) <br>
 > [Le Flow Editing](https://github.com/mateis-rgb/learning/blob/main/FlowEditing.md)
